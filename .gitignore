@@ -1,0 +1,10 @@
+ # Ignore compiled output
+inventory_postgres
+
+# macOS system file
+.DS_Store
+
+# Backup or temp files
+*.log
+*.tmp
+*~
